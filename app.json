@@ -1,0 +1,34 @@
+{
+  "id": "ad086faf-8aa8-40aa-9631-3a8ab42804fb",
+  "name": "Training-4",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{
+    "id": "4c259f69-0f85-4321-8e90-51268a354040",
+    "name": "Hungarian Localization",
+    "publisher": "HRP Europe Kft.",
+    "version": "20.0.0.0"
+  }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50050,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
